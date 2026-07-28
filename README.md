@@ -1,2 +1,2 @@
-# Blakesuga.github.io
+# blakesuga.github.io
 My personal website
