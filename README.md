@@ -1,3 +1,3 @@
 Personal website made with React and Vite.
 
-[Website Link](https://blakesuga.github.io)
+[Natania's Website](https://blakesuga.github.io)
